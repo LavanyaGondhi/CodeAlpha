@@ -5,6 +5,7 @@ The internship focuses on strengthening programming fundamentals through practic
 
 # Projects
 - Hangman Game
+- Stock Portfolio Tracker
 - Additional tasks will be added as I progress through the internship.
 
 # Concepts Applied
